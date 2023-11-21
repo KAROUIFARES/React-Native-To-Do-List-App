@@ -12,3 +12,4 @@
 * Styles
   - Les styles sont définis à l'aide de l'API StyleSheet de React Native pour garantir une présentation cohérente et agréable.
 
+![Uploading ToDoList-execution.gif…]()
