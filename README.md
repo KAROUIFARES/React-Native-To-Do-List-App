@@ -1,4 +1,4 @@
-** React Native To-Do List App
+<h1>React Native To-Do List App</h1> 
 - Cette application React Native propose une simple liste de tâches avec des fonctionnalités d'ajout et de suppression.
 
 * Fonctionnalités
