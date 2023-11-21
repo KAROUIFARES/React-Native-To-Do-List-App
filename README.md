@@ -12,4 +12,5 @@
 * Styles
   - Les styles sont définis à l'aide de l'API StyleSheet de React Native pour garantir une présentation cohérente et agréable.
 
-![Uploading ToDoList-execution.gif…]()
+![ToDoList-execution](https://github.com/KAROUIFARES/React-Native-To-Do-List-App/assets/126524113/d9d38a5d-5d4c-450c-b17d-d6725727a062)
+
